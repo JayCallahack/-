@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+ul li {
+    list-style-image: unset;
+  }
+
+  ul li::marker {
+    color: #b5e854;
+  }
+
+  hr {
+    margin: 2em 0;
+}
