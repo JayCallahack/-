@@ -15,10 +15,3 @@
 ** ** 
 ## [PC Builds?](./PC_Builds/)
 ** ** 
-## [Jay's Custom Keyboard Build Project](./Keyboard_Build/)
-** ** 
-
-
-
-
-** ** 
