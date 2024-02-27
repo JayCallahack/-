@@ -1,29 +1,27 @@
-# Keyboards:
+# لوحات المفاتيح:
 
-## **Sizes: Mechanical keyboards come in different sizes:**
-* <a href="https://blog.wooting.nl/wp-content/uploads/2018/01/Full-size-keyboard-form-factor-min.png" target="_blank">Full-size:</a> This is the standard layout with a number pad. 
-* <a href="https://www.keebtalk.com/uploads/db8059/original/2X/6/6647610ebcb6b7f7028c3cca9e685a902e740c82.png" target="_blank">Tenkeyless (TKL):</a> This layout removes the number pad for a more compact design.
-* <a href="https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png" target="_blank">60%:</a> This layout is very compact, removing the arrow and function keys, usually leaving only the alphanumeric keys.
-* <a href="https://www.keebtalk.com/uploads/db8059/original/3X/3/0/30ad82d14378584949b1aadc8764d6a3fdc148ae.png" target="_blank">Split:</a> This layout allows for a more natural typing angles, and comes in many shapes and sizes.
+## **الأحجام: تأتي لوحات المفاتيح الميكانيكية بأحجام مختلفة:**
+* <a href="https://blog.wooting.nl/wp-content/uploads/2018/01/Full-size-keyboard-form-factor-min.png" target="_blank">Full-size:</a> هذا التصميم القياسي مع لوحة أرقام.
+* <a href="https://www.keebtalk.com/uploads/db8059/original/2X/6/6647610ebcb6b7f7028c3cca9e685a902e740c82.png" target="_blank">Tenkeyless (TKL):</a>  يقوم هذا التصميم بإزالة لوحة الأرقام لتحقيق تصميم أكثر اندماجًا.
+* <a href="https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png" target="_blank">60%:</a> هذا التصميم مدمج للغاية، حيث يتم إزالة مفاتيح الأسهم والوظائف، مما يترك عادةً فقط المفاتيح الأبجدية والأرقام.
+* <a href="https://www.keebtalk.com/uploads/db8059/original/3X/3/0/30ad82d14378584949b1aadc8764d6a3fdc148ae.png" target="_blank">Split:</a> يسمح هذا التصميم بزوايا كتابة أكثر طبيعية، ويأتي بأشكال وأحجام متعددة.
 
 ** ** 
 
-## **Physical Key Layouts**
-### **Staggered Layout:**
-> The staggered layout is the most common and widely used keyboard layout. It features keys that are arranged in a staggered pattern, where each row is slightly offset from the row above or below it. This layout follows the traditional typewriter design and is commonly seen on standard keyboards, including QWERTY and AZERTY layouts. Staggered layouts are found on most mainstream keyboards and cater to a wide range of users, including typists, gamers, and general computer users.
+## **تخطيطات المفاتيح الفيزيائية**
+### **تخطيط متدرج:**
+> تعتبر تخطيطات الازاحة الأكثر شيوعًا واسعة الاستخدام. تتميز بمفاتيح مرتبة في نمط متراص، حيث يكون كل صف متباعدًا قليلاً عن الصف الذي يليه أو الذي يسبقه. يتبع هذا التصميم تصميم الآلة الكاتبة التقليدي ويُعتبر شائعًا على لوحات المفاتيح القياسية، بما في ذلك التخطيطات QWERTY و AZERTY. يتوفر تخطيط Staggered على معظم لوحات المفاتيح الرئيسية ويخدم مجموعة واسعة من المستخدمين، بما في ذلك الطباع واللاعبين ومستخدمي الكمبيوتر العامين.
 
-### **Ortholinear Layout:**
-> The ortholinear layout is an alternative to the staggered layout. In this layout, the keys are arranged in a grid-like pattern with straight vertical and horizontal alignment. Each key is directly aligned above or below its corresponding key in the row above or below. Ortholinear layouts aim to improve typing accuracy and finger movement by reducing finger travel distance. These layouts are often associated with mechanical keyboards and are popular among enthusiasts, programmers, and those who prioritize ergonomic typing experiences.
+### **التخطيط الأورثولايني:**
+> يُعتبر تخطيط الأورثولينير بديلاً للتخطيط المتعرج. في هذا التخطيط، تُرتب المفاتيح في نمط شبكي مع محاذاة عمودية وأفقية مستقيمة. يتم توجيه كل مفتاح بشكل مباشر أعلى أو أسفل مفتاحه المقابل في الصف أعلى أو أسفل. يهدف التخطيط الأورثولينير إلى تحسين دقة الكتابة وحركة الأصابع من خلال تقليل مسافة سفر الأصابع. غالبًا ما ترتبط هذه التخطيطات بلوحات المفاتيح الميكانيكية وتحظى بشعبية بين الهواة والمبرمجين وأولئك الذين يعطون الأولوية لتجارب الكتابة الإيرونية.
 
-### **Columnar Staggered Layout:**
-> The columnar staggered layout is a hybrid between the ortholinear and staggered layouts. It retains the straight vertical alignment of the ortholinear layout but introduces a slight stagger to the columns to better align with the natural position of the fingers. Columnar staggered layouts are designed to optimize finger movement and reduce strain by accommodating the natural angles and reach of the fingers. These layouts are typically found on ergonomic or customizable keyboards that prioritize ergonomic typing experiences and finger comfort.
+### **التخطيط الشكلي الطولي:**
+> يُعتبر تخطيط الأعمدة المتعرجة هجينًا بين التخطيط الأورثولينير والتخطيط المتعرج. يحافظ على التوجيه العمودي المستقيم للتخطيط الأورثولينير ولكنه يقدم انحرافًا طفيفًا للأعمدة للمزيد من التوافق مع الموضع الطبيعي للأصابع. تم تصميم تخطيطات الأعمدة المتعرجة لتحسين حركة الأصابع وتقليل الإجهاد عن طريق استيعاب الزوايا الطبيعية ومدى الأصابع. عادةً ما تُوجد هذه التخطيطات على لوحات المفاتيح العملية أو المخصصة لتوفير تجارب كتابة إيرونية مريحة ومريحة للأصابع.
 
-### **Regarding the types of keyboards where you are likely to encounter these layouts:**
-* **Staggered Layout**: Staggered layouts are found on most mainstream keyboards, including laptops, desktop keyboards, and most off-the-shelf mechanical keyboards.
-
-* **Ortholinear Layout**: Ortholinear layouts are commonly associated with mechanical keyboards, particularly those that cater to enthusiasts and those seeking a more ergonomic typing experience. They are often found on programmable keyboards or DIY keyboard kits.
-
-* **Columnar Staggered Layout**: Columnar staggered layouts are primarily seen on ergonomic keyboards designed for improved comfort and typing efficiency. These keyboards are typically customizable and programmable, allowing users to tailor the layout to their specific needs. Examples include the Ergodox EZ and the Keyboardio Model 01.
+### **بالنسبة لأنواع لوحات المفاتيح حيث من المرجح أن تواجه هذه التخطيطات:**
+* تخطيط متناثر: يتم العثور على تخطيطات متناثرة على معظم لوحات المفاتيح الرئيسية، بما في ذلك أجهزة الكمبيوتر المحمولة، لوحات المفاتيح السطحية، ومعظم لوحات المفاتيح الميكانيكية الجاهزة.
+* تخطيط طولي: يرتبط تخطيط الشكل الطولي عادةً بلوحات المفاتيح الميكانيكية، خاصة تلك التي تهتم بالهواة والأشخاص الذين يبحثون عن تجربة كتابة أكثر راحة. غالبًا ما يتم العثور عليها على لوحات المفاتيح القابلة للبرمجة أو أطقم لوحات المفاتيح الخاصة بالتجميع الذاتي.
+* تخطيط الأعمدة المتناثرة: يُعتبر تخطيط الأعمدة المتناثرة أساسًا على لوحات المفاتيح القابلة للتكيف والمصممة لتحسين الراحة وكفاءة الكتابة. تُمكّن هذه اللوحات المستخدمين من تخصيص التخطيط لتلبية احتياجاتهم الخاصة. ومن الأمثلة على ذلك الإصدارات مثل Ergodox EZ وKeyboardio Model 01.
 
 ** ** 
 
