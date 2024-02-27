@@ -2,8 +2,11 @@
 
 ## **الأحجام: تأتي لوحات المفاتيح الميكانيكية بأحجام مختلفة:**
 * <a href="https://blog.wooting.nl/wp-content/uploads/2018/01/Full-size-keyboard-form-factor-min.png" target="_blank">Full-size:</a> هذا التصميم القياسي مع لوحة أرقام.
+
 * <a href="https://www.keebtalk.com/uploads/db8059/original/2X/6/6647610ebcb6b7f7028c3cca9e685a902e740c82.png" target="_blank">Tenkeyless (TKL):</a>  يقوم هذا التصميم بإزالة لوحة الأرقام لتحقيق تصميم أكثر اندماجًا.
+
 * <a href="https://www.keebtalk.com/uploads/db8059/original/1X/32e6dc25153a1cc2f4af3fbfca3d21f69aeb7173.png" target="_blank">60%:</a> هذا التصميم مدمج للغاية، حيث يتم إزالة مفاتيح الأسهم والوظائف، مما يترك عادةً فقط المفاتيح الأبجدية والأرقام.
+
 * <a href="https://www.keebtalk.com/uploads/db8059/original/3X/3/0/30ad82d14378584949b1aadc8764d6a3fdc148ae.png" target="_blank">Split:</a> يسمح هذا التصميم بزوايا كتابة أكثر طبيعية، ويأتي بأشكال وأحجام متعددة.
 
 ** ** 
@@ -41,6 +44,7 @@
 
 ## **Connectivity options:**
 * __Bluetooth:__ Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
+
 * __Wired:__ Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
 
 ** ** 
@@ -49,7 +53,9 @@
 > Mechanical switches are the heart of a mechanical keyboard, determining how the keys feel and sound. Here are some common switch types:
 
 * __Linear:__ Smooth keystrokes without tactile feedback. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Red</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Yellow</a>.
+
 * __Tactile:__ Provide a tactile bump to indicate key actuation, generally less noisy and less of a tactile feel then clicky switches. Examples include Cherry <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">MX Brown</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Brown</a>.
+
 * __Clicky:__ Offer both tactile feedback and an audible click sound, generally they give more strong tactile feel then tacktile switches. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Blue</a> and <a href="https://www.youtube.com/shorts/KzxUIQKw9EI" target="_blank">Kailh Box White</a>.
 
 For more nuanced information about switches, click <a href="https://jaycallahack.github.io/Hardware-Information/Keyboard_Switches_Information/" target="_blank">here</a>.
