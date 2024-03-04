@@ -37,48 +37,48 @@
 
 ** ** 
 
-## **Split keyboards:**
-> Split keyboards physically separate the left and right sides of the keyboard, allowing for more ergonomic positioning to accommodate individual hand placement and reduce strain.
+## **لوحات المفاتيح المنقسمة:**
+> تقوم لوحات المفاتيح المنقسمة فعليًا بفصل الجانبين الأيسر والأيمن من لوحة المفاتيح، مما يسمح بوضع أكثر راحة لاستيعاب وضع اليد الفردي وتقليل الضغط.
 
 ** ** 
 
-## **Connectivity options:**
-* __Bluetooth:__ Some mechanical keyboards offer wireless connectivity, allowing you to connect to devices without the need for cables. Bluetooth keyboards provide flexibility and portability.
+## **خيارات الاتصال:**
+* __Bluetooth:__ توفر بعض لوحات المفاتيح الميكانيكية إمكانية الاتصال اللاسلكي، مما يسمح لك بالاتصال بالأجهزة دون الحاجة إلى الكابلات. توفر لوحات المفاتيح التي تعمل بتقنية Bluetooth المرونة وسهولة النقل.
 
-* __Wired:__ Wired keyboards connect directly to a device using a USB-A or USB-C cable, ensuring a stable and reliable connection.
+* __Wired:__ تتصل لوحات المفاتيح السلكية مباشرةً بالجهاز باستخدام كابل USB-A أو USB-C، مما يضمن اتصالاً مستقرًا وموثوقًا.
 
 ** ** 
 
-## **Switches:**
-> Mechanical switches are the heart of a mechanical keyboard, determining how the keys feel and sound. Here are some common switch types:
+## **المفاتيح:**
+> المفاتيح الميكانيكية هي قلب لوحة المفاتيح الميكانيكية، حيث تحدد كيفية إحساس المفاتيح وصوتها. فيما يلي بعض أنواع المفاتيح الشائعة:
 
-* __Linear:__ Smooth keystrokes without tactile feedback. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Red</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Yellow</a>.
+* __خطي:__ ضغطات مفاتيح سلسة دون ردود فعل لمسية. الامثله تشمل <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Red</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Yellow</a>.
 
-* __Tactile:__ Provide a tactile bump to indicate key actuation, generally less noisy and less of a tactile feel then clicky switches. Examples include Cherry <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">MX Brown</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Brown</a>.
+* __اللمسية:__ توفير نتوء ملموس للإشارة إلى تشغيل المفتاح، بشكل عام أقل ضوضاء وأقل إحساسًا باللمس من مفاتيح النقر/الكبس. الامثله تشمل Cherry <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">MX Brown</a> and <a href="https://www.youtube.com/shorts/9PxmoIKHGeg" target="_blank">Gateron Brown</a>.
 
-* __Clicky:__ Offer both tactile feedback and an audible click sound, generally they give more strong tactile feel then tacktile switches. Examples include <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Blue</a> and <a href="https://www.youtube.com/shorts/KzxUIQKw9EI" target="_blank">Kailh Box White</a>.
+* __النقر/الكبس:__ تقدم كلاً من ردود الفعل اللمسية وصوت النقر المسموع، وهي عمومًا تعطي إحساسًا ملموسًا أقوى من المفاتيح اللمسية. الامثله تشمل <a href="https://www.youtube.com/shorts/VWSCTktPIZ4" target="_blank">Cherry MX Blue</a> and <a href="https://www.youtube.com/shorts/KzxUIQKw9EI" target="_blank">Kailh Box White</a>.
 
-For more nuanced information about switches, click <a href="https://jaycallahack.github.io/Hardware-Information/Keyboard_Switches_Information/" target="_blank">here</a>.
+لمزيد من المعلومات الدقيقة حول المفاتيح، انقر فوق <a href="https://jaycallahack.github.io/Hardware-Information/Keyboard_Switches_Information/" target="_blank">here</a>.
 
 ** ** 
 
 ## **Low profile keyboards:**
- > These keyboards feature a thinner profile and shorter key travel distance, resulting in a sleeker design and potentially quieter typing experience. Examples include the <a href="https://www.youtube.com/watch?v=mZuTxsJ7s1I" target="_blank">Keychron K1</a> and <a href="https://www.youtube.com/watch?v=DvZQS0mMcVM" target="_blank">Logitech G915</a>.
+ > تتميز لوحات المفاتيح هذه بمظهر أنحف ومسافة انتقال أقصر للمفاتيح، مما يؤدي إلى تصميم أكثر أناقة وتجربة كتابة أكثر هدوءًا. وتشمل الأمثلة <a href="https://www.youtube.com/watch?v=mZuTxsJ7s1I" target="_blank">Keychron K1</a> and <a href="https://www.youtube.com/watch?v=DvZQS0mMcVM" target="_blank">Logitech G915</a>.
 
 ** ** 
 
-## **Keycaps:**
- > Keycaps can be made from various materials like ABS plastic, PBT plastic, or even custom materials like metal. Different keycap profiles, such as OEM, Cherry, or SA, offer different shapes and heights, affecting the typing experience and ergonomics. Keycaps can also be customized with different colors, designs, or even <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffeedbeater.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fimage2-1.jpg&f=1&nofb=1&ipt=114470442f2db3098640e5b061b7588789f21afc86f6cba9e3daa9814568c9f9&ipo=images" target="_blank">artisan keycaps</a> for aesthetic purposes.
+## **أغطية المفاتيح:**
+ > يمكن تصنيع أغطية المفاتيح من مواد مختلفة مثل بلاستيك ABS أو بلاستيك PBT أو حتى مواد مخصصة مثل المعدن. توفر ملفات تعريف غطاء المفاتيح المختلفة، مثل OEM أو Cherry أو SA، أشكالًا وارتفاعات مختلفة، مما يؤثر على تجربة الكتابة وبيئة العمل. يمكن أيضًا تخصيص أغطية المفاتيح بألوان أو تصميمات مختلفة أو حتى <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffeedbeater.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fimage2-1.jpg&f=1&nofb=1&ipt=114470442f2db3098640e5b061b7588789f21afc86f6cba9e3daa9814568c9f9&ipo=images" target="_blank">أغطية مفاتيح حرفية</a> لأغراض جمالية.
 
 ** ** 
 
-## __Videos:__
-> I tried to order all the videos listed below to help slowly build your understanding of keyboards, and the different sounds and shapes they come in. The (*) marks videos of keyboards that I personally am really drawn towards, and see that have allot of use, and very unique, or just plain cool.
+## __فيديو:__
+> لقد حاولت ترتيب جميع مقاطع الفيديو المدرجة أدناه للمساعدة في بناء فهمك للوحات المفاتيح والأصوات والأشكال المختلفة التي تأتي بها. تشير علامة (*) إلى مقاطع الفيديو الخاصة بلوحات المفاتيح التي انجذبت إليها شخصيًا، وأرى أنها تحتوي على الكثير من الميزات الاستخدام، وفريد جدًا، أو مجرد رائع.
 
-* <a href="https://www.youtube.com/watch?v=AcSkjCB8nHM" target="_blank">Keyboard 2022 Completion</a>
-* <a href="https://www.youtube.com/shorts/9S0RaSDihS4" target="_blank">Keyboard 2023 Completion</a>
+* <a href="https://www.youtube.com/watch?v=AcSkjCB8nHM" target="_blank">مجموعة لوحات المفاتيح 2022</a>
+* <a href="https://www.youtube.com/shorts/9S0RaSDihS4" target="_blank">مجموعة لوحات المفاتيح 2023</a>
 * <a href="https://www.youtube.com/watch?v=a3BnB3wBEZ8&list=LL&index=3" target="_blank">Akko V3 Cream Yellow Switches</a>
-* <a href="https://www.youtube.com/watch?v=UAjCgaP_jNw" target="_blank">Ergonomic Keyboards</a>
+* <a href="https://www.youtube.com/watch?v=UAjCgaP_jNw" target="_blank">لوحات المفاتيح المريحة</a>
 * <a href="https://youtu.be/Mks7QDxFreY?si=GdyLODKucMJCP73d" target="_blank">The Charybdis Wireless Keyboard</a>
 * <a href="https://youtu.be/YwsutNf1WRA?si=_QrOWRmfXWBkfBJk" target="_blank">The TOTEM Wireless Keyboard</a>
 * <a href="https://www.youtube.com/watch?v=hXohJwatIpA" target="_blank">The Wireless Corne Keyboard</a>
